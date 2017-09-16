@@ -16,11 +16,11 @@
 			<br><br>
 			When you visit a webpage that heavily employs JavaScript your web browser downloads software to your computer and executes it without your knowledge. Most, if not all, web browsers are silent when it comes to JavaScript, although most also have a way to disable it completely.
 			<br><br>
-			<b>2. JavaScript can be a threat to a site visitor's security.</b>
+			<b>2. JavaScript can be a threat to a site visitor's security</b>
 			<br><br>
 			 Because it is downloaded and executed automatically--and without the visitor's knowledge--if someone injects malicious code into the site's JavaScript then that is also downloaded and executed automatically. Thus JavaScript can pose a security threat to visitors of a webpage. The most common way I have heard of this happening is through advertisements (which is another reason why having an adblocker is also paramount).
 			 <br><br>
-			 <b>3. Websites that rely on JavaScript cannot function without it.</b>
+			 <b>3. Websites that rely on JavaScript cannot function without it</b>
 			 <br><br>
 			 Since JavaScript can be a security flaw, many people would seek to disable it. However by disabling JavaScript they become unable to use many popular websites.
 			 <br>
