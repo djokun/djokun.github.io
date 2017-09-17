@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <html>
 	<body style="
 	background-color: #393939; color: #E6E6FA;
@@ -10,20 +11,20 @@
 		<p>
 		<div style="text-align: center;">Most things on this website are my opinions and should not be taken as fact unless sourced.</div>
 		<br><br>
-		<b><a href="contact.html" target="_blank" style="color: #FFFF00; ">Contact</a></b>
+		<b><a href="contact.html" target="_self" style="color: #FFFF00; ">Contact</a></b>
 		<br><br><br>
 		<div style="text-align: center;"><b><u>Articles</u></b></div>
 		<br><br><br>
-		<b><a href="JavaScript.html" target="_blank" style="color: yellow;">What's The Matter With JavaScript? (Last Updated: September 15th, 2017)</a></b>
+		<b><a href="JavaScript.html" target="_self" style="color: yellow;">What's The Matter With JavaScript? (Last Updated: September 15th, 2017)</a></b>
 		<br><br><br>
-		<b><a href="whyleftfacebook.html" target="_blank" style="color: yellow;">Why I'm Leaving Facebook (Last Updated: September 15th, 2017)</a></b>		
+		<b><a href="whyleftfacebook.html" target="_self" style="color: yellow;">Why I'm Leaving Facebook (Last Updated: September 15th, 2017)</a></b>		
 		</p>
 		<br><br><br><br>
-		<footer style="`
+	</body>
+	<footer style="`
 		position: auto;
 		bottom: 10px;
 		left: 10px;">
-		<i>Copyright 2017 Daniel J. Okuniewicz Jr. Verbatim copying and distribution of this entire article are permitted worldwide, without royalty, in any medium, provided this notice is preserved.</i>
-		</footer>
-	</body>
+		<i>Copyright (c) 2017 Daniel J. Okuniewicz Jr. Verbatim copying and distribution of this entire article are permitted worldwide, without royalty, in any medium, provided this notice is preserved.</i>
+	</footer>
 </html>
