@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <html>
+<style>
+a:link {
+	color: yellow;
+	}
+a:visited {
+	color: grey;
+	}
+</style>
 	<body style="
-	background-color: #393939; color: #E6E6FA;
+	background-color: #232323; color: #E6E6FA;
 	width: auto;
 	height: 100%;
 	margin: 10px;
@@ -33,7 +41,7 @@
 			<br><br><br>
 			Facebook is bright blue and white, it's like staring at a light bulb. It's the year two thousand seventeen and there are still websites that think bright fucking white is okay.
 			<br><br>
-			The website uses JavaScript up the ass and I really don't like JavaScript (might write about that some time, in the meantime if you hate JavaScript as much as I do you can install the <a href="https://noscript.net/" target="_blank"; style="color: yellow;">NoScript</a> browser extension)
+			The website uses JavaScript up the ass and I really don't like JavaScript (might write about that some time, in the meantime if you hate JavaScript as much as I do you can install the <a href="https://noscript.net/" target="_blank";>NoScript</a> browser extension)
 			<br><br>
 			I don't like Facebook's business model. The site is "free"--that is, you, the supposed customer, is actually the product.
 		</p><br>

@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <html>
+<style>
+a:link {
+	color: yellow;
+	}
+a:visited {
+	color: grey;
+	}
+</style>
 	<body style="
 	background-color: #232323; color: #E6E6FA;
 	width: auto;
@@ -11,15 +19,15 @@
 		<p>
 		<div style="text-align: center;">Most things on this website are my opinions and should not be taken as fact unless sourced.</div>
 		<br><br>
-		<b><a href="contact.html" target="_self" style="color: #FFFF00; ">Contact</a></b>
+		<b><a href="contact.html" target="_self">Contact</a></b>
 		<br><br><br>
 		<div style="text-align: center;"><b><u>Articles</u></b></div>
 		<br><br><br>
-		<b><a href="Robots.html" target="_self" style="color: yellow;">Robots and Transhumanism (Last Updated: September 17th, 2017)</a></b>
+		<b><a href="Robots.html" target="_self">Robots and Transhumanism (Last Updated: September 17th, 2017)</a></b>
 		<br><br><br>
-		<b><a href="JavaScript.html" target="_self" style="color: yellow;">What's The Matter With JavaScript? (Last Updated: September 15th, 2017)</a></b>
+		<b><a href="JavaScript.html" target="_self">What's The Matter With JavaScript? (Last Updated: September 15th, 2017)</a></b>
 		<br><br><br>
-		<b><a href="whyleftfacebook.html" target="_self" style="color: yellow;">Why I'm Leaving Facebook (Last Updated: September 15th, 2017)</a></b>		
+		<b><a href="whyleftfacebook.html" target="_self">Why I'm Leaving Facebook (Last Updated: September 15th, 2017)</a></b>		
 		</p>
 		<br><br><br><br>
 	</body>
