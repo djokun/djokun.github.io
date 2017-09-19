@@ -19,9 +19,11 @@ a:visited {
 		<p>
 		<div style="text-align: center;">Most things on this website are my opinions and should not be taken as fact unless sourced.</div>
 		<br><br>
-		<b><a href="contact.html" target="_self">Contact</a></b>
+		<b><a href="contact.html" target="_self" style="color: yellow">Contact</a></b>
 		<br><br><br>
 		<div style="text-align: center;"><b><u>Articles</u></b></div>
+		<br><br><br>
+		<b><a href="freedom.html">Freedom and Consolidation of Power (Last Updated: September 18th, 2017)</a></b>
 		<br><br><br>
 		<b><a href="Robots.html" target="_self">Robots and Transhumanism (Last Updated: September 17th, 2017)</a></b>
 		<br><br><br>
