@@ -1,9 +1,10 @@
 body	{
-	background-color: #232323; color: #E6E6FA;
+	background-color: #e3e3e3; color: #111111;
 	width: auto;
-	height: 100%
+	height: 100%;
 	margin: 10px;
 	padding: 10px;
+	border: double;
 }
 
 div	{
@@ -12,7 +13,7 @@ div	{
 }
 
 a:link	{
-	color: yellow;
+	color: blue;
 }
 a:visited{
 	color: grey;
