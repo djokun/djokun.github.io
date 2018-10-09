@@ -2,8 +2,8 @@ body	{
 	background-color: beige; color: #111111;
 	width: auto%;
 	height: 100%;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 10px;
+	margin-right: 10px;
 	padding: 10px;
 	border: double;
 }
