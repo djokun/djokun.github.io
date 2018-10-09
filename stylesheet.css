@@ -1,8 +1,9 @@
 body	{
 	background-color: beige; color: #111111;
-	width: auto;
+	width: 50%;
 	height: 100%;
-	margin: 10px;
+	margin-left: 25%;
+	margin-right: 25%;
 	padding: 10px;
 	border: double;
 }
