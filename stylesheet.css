@@ -1,3 +1,7 @@
+html	{
+	background-color beige;
+}
+
 body	{
 	background-image: url("images/circuit.png");
 	color: #111111;
@@ -6,14 +10,14 @@ body	{
 	height: 100%;
 	margin: auto;
 	padding: 10px;
-	border: double;
 	background-color: beige; 
 }
 
 .header {
 	text-align: center;
 	font-size 25px;
-	background-color: #efefef; color #ffffff;
+	background-color: #f5f5dc; 
+	color #ffffff;
 	width: auto;
 	max-width: 800px;
 	height: 100px;
