@@ -1,5 +1,5 @@
 body	{
-	background-image: url("images/circuit.png"); 
+	background-image: url("images/circuit.png");
 	color: #111111;
 	width: auto;
 	max-width: 800px;
@@ -7,6 +7,7 @@ body	{
 	margin: auto;
 	padding: 10px;
 	border: double;
+	background-color: beige; 
 }
 
 .header {
