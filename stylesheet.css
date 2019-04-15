@@ -16,7 +16,7 @@ body	{
 .header {
 	text-align: center;
 	font-size 25px;
-	background-color: #f5f5dc; 
+	background-color: #ffffff; 
 	color #ffffff;
 	width: auto;
 	max-width: 800px;
@@ -34,12 +34,15 @@ div {
 a:link	{
 	color: blue;
 }
+
 a:visited{
 	color: ;
 }
+
 p	{
 	text-align: left;
 }
+
 footer	{
 	position: auto;
 	bottom: 10px;
