@@ -13,14 +13,14 @@ body	{
 	background-color: beige; 
 }
 
-.header {
+h1 {
 	text-align: center;
 	font-size 25px;
 	background-color: #ffffff; 
 	color #ffffff;
 	width: auto;
 	max-width: 800px;
-	height: 100px;
+	height: 50px;
 	margin: auto;
 	padding: 10px;
 	border: double;
