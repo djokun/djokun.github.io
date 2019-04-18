@@ -4,6 +4,7 @@
 	<body style="max-width: 1080px">
 <table>
 <center>
+<br>
 ## Philosophical Articles
 </center>
 
