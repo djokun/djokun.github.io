@@ -3,7 +3,7 @@
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
 	<body style="max-width: 1080px">
 <table>
-## Welcome
+## Daniel J. Okuniewicz Jr.
 <br>
 <center>
 [**About**](about.html) | [**Contact**](contact.html) | [**Philosophy**](philosophy.html) | [**Opinion**](opinion.html)
