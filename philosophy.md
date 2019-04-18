@@ -4,7 +4,7 @@
 	<body style="max-width: 1080px">
 <table>
 <center>
-### Philosophical Articles
+## Philosophical Articles
 </center>
 
 [**My General Philosophy: Finding Meaning (Last Updated October 8th, 2018)**](genphilo1.html)<br><br>
