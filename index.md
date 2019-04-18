@@ -8,7 +8,3 @@
 <center>
 [**About**](about.html) | [**Contact**](contact.html) | [**Philosophy**](philosophy.html) | [**Opinion**](opinion.html)
 </center>
-<br>
-<footer>
-*Copyright (c) 2019 Daniel J. Okuniewicz Jr. Verbatim copying and distribution of this entire site are permitted worldwide, without royalty, in any medium, provided this notice is preserved.*
-</footer>
