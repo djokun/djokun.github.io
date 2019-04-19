@@ -13,5 +13,5 @@ I encourage everyone to read my writing and [**Contact**](contact.html) me to ta
 <br>
 [**Home**](index.html)<br><br><br>
 <footer>
-*Copyright (c) 2017-2018 Daniel J. Okuniewicz Jr. Verbatim copying and distribution of this entire site are permitted worldwide, without royalty, in any medium, provided this notice is preserved.*
+*Copyright (c) 2019 Daniel J. Okuniewicz Jr. Verbatim copying and distribution of this entire site are permitted worldwide, without royalty, in any medium, provided this notice is preserved.*
 </footer>
