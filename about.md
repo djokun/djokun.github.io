@@ -2,6 +2,7 @@
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
 	<body style="max-width: 1080px">
 <table>
+
 ## About
 
 My name is Daniel Okuniewicz Jr. and this is my personal web page. I usually post my writings on here, but I may also post video and audio files in the future. It is basically a creative outlet for me to share whatever I want.
