@@ -1,4 +1,5 @@
 <table>
+	<meta>
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
 	<body style="max-width: 1080px">
 <table>
