@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+a:link	{
+	color: blue;
+}
+
+a:visited{
+	color: ;
+}
+
+p	{
+	text-align: left;
+}
+
+footer	{
+	position: auto;
+	bottom: 10px;
+	left: 10px;
+}

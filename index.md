@@ -5,6 +5,4 @@
 <table>
 ## Daniel J. Okuniewicz Jr.
 <br>
-<center>
-[**About**](about.html) | [**Contact**](contact.html) | [**Philosophy**](philosophy.html) | [**Opinion**](opinion.html)
-</center>
+<center> [**About**](about.html) | [**Contact**](contact.html) | [**Philosophy**](philosophy.html) | [**Opinion**](opinion.html) </center>
