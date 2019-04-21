@@ -11,8 +11,9 @@ My name is Daniel Okuniewicz Jr. and this is my personal web page. I usually pos
 In the future I may make more use of this page for other reasons, personal or professional. I've thought about uploading my CV here but at this point in my life I don't think that'll do anything.
 
 I encourage everyone to read my writing and [**Contact**](contact.html) me to talk about just about anything.
-<br>
-[**Home**](index.html)<br><br><br>
+<br><br><br>
+
+### [**🏠**](index.html)<br><br>
 <footer>
 *Copyright (c) 2019 Daniel J. Okuniewicz Jr. Verbatim copying and distribution of this entire site are permitted worldwide, without royalty, in any medium, provided this notice is preserved.*
 </footer>

@@ -19,7 +19,7 @@
 
 [**Freedom and Consolidation of Power (Last Updated: September 18th, 2017)**](freedom.html)<br><br><br>
 
-[**Home**](index.html)<br><br><br>
+### [**🏠**](index.html)<br><br>
 <footer>
 *Copyright (c) 2017-2018 Daniel J. Okuniewicz Jr. Verbatim copying and distribution of this entire site are permitted worldwide, without royalty, in any medium, provided this notice is preserved.*
 </footer>
