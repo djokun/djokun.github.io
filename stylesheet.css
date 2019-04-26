@@ -1,23 +1,20 @@
-html	{
-	background-color white;
-}
-
 body	{
-	background-image: url("images/subtlenet2.png");
-	color: #111111;
+	background-color: #fdf6e3;
+	color: #586e75;
 	width: auto;
 	max-width: 800px;
 	height: 100%;
 	margin: auto;
 	padding: 10px;
-	background-color: white; 
+}
+
+h1 {
+	text-align: center;
 }
 
 h2 {
 	text-align: center;
 	font-size: 25px;
-	background-color: #ffffff; 
-	color #ffffff;
 	width: auto;
 	max-width: 800px;
 	height: 50px;
@@ -31,17 +28,16 @@ h3 {
 	font-size: 30px;
 }
 
-div {
-	text-align: center;
-	font-size: 20px;
+hr {
+	color: #586e75;
 }
 
 a:link	{
-	color: blue;
+	color: #859900;
 }
 
 a:visited{
-	color: ;
+	color: #6c71c4;
 }
 
 p	{

@@ -1,0 +1,18 @@
+---
+title: Opinion
+output:
+    html_document:
+        css: stylesheet.css
+        theme: null
+        highlight: null
+        mathjax: null
+---
+
+<table>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<table>
+
+[**Computer Literacy (Last Updated May 28th, 2018)**](complit.html)<br><br>
+
+
+### [**🏠**](index.html)<br><br>
