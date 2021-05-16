@@ -1,0 +1,17 @@
+.HTML <meta name="viewport" content="width=device-width, initial-scale=1.0">
+.BCL #34302d #f5e7de #d97742 #d97742 #f2854a
+.MPIMG -R -G 2c danielOkuniewicz-render.png 35%
+.URL index.html "Home"
+|
+.URL about.html "About"
+|
+.URL books.html "Favorite Books"
+|
+.URL writings.html "Writings"
+.HR
+.HnS
+Welcome to my personal webpage
+.HnE
+
+Enjoy your stay!
+Me on the right.
