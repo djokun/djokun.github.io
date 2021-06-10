@@ -1,0 +1,76 @@
+body {
+	background-color: #fdf6e3;
+	color: #586e75;
+	width: auto;
+	max-width: 800px;
+	height: 100%;
+	margin: auto;
+	padding: 10px;
+}
+
+h1 {
+	text-align: center;
+	border: double;
+}
+
+h2 {
+	text-align: center;
+	font-size: 25px;
+}
+
+h3 {
+	text-align: center;
+	font-size: 15px;
+}
+
+hr {
+	color: #586e75;
+}
+
+a:link	{
+	color: #859900;
+}
+
+a:visited{
+	color: #6c71c4;
+}
+
+p	{
+	text-align: left;
+}
+
+footer	{
+	position: auto;
+	bottom: 10px;
+	left: 10px;
+}
+iframe {
+	border: none;
+	height: 40px;
+	width: 100px;
+	padding-left: 60%;
+	padding-top: 5%;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+	flex: 50%;
+	padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+
+/* Rain text fields */
+.raintext {
+	border: solid;
+	height: 40px;
+	width: 100px;
+	background-color: #ffffff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
