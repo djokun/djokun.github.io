@@ -242,7 +242,6 @@ ol {
 footer	{
 	font-size: 0.875em;
 	position: auto;
-	padding-bottom: 5px;
 }
 
 p.footnote {
