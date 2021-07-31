@@ -84,6 +84,7 @@ ul.articles {
 .li_header {
 	float: left;
 	border: outset ghostwhite;
+	height: auto;
 }
 .li_header:last-child{
 	border-right: none;
@@ -242,6 +243,7 @@ ol {
 footer	{
 	font-size: 0.875em;
 	position: auto;
+	padding-bottom: 5px;
 }
 
 p.footnote {

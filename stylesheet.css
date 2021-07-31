@@ -84,19 +84,23 @@ ul.articles {
 .li_header {
 	float: left;
 	border: outset ghostwhite;
+	height: auto;
 }
 .li_header:last-child{
 	border-right: none;
 	border: outset ghostwhite;
+	height: auto;
 }
 
 .li_header_right {
 	float: right;
 	border: outset ghostwhite;
+	height: auto;
 }
 .li_header_right:first-child{
 	border-left: none;
 	border: outset ghostwhite;
+	height: auto;
 }
 
 .li_header a {
