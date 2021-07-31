@@ -76,7 +76,7 @@ ul.articles {
 	overflow: visible;
 	top: 0;
 	width: auto;
-	height:34px;
+	height:33px;
 	position: relative;
 	z-index:50;
 }
@@ -89,15 +89,18 @@ ul.articles {
 .li_header:last-child{
 	border-right: none;
 	border: outset ghostwhite;
+	height: auto;
 }
 
 .li_header_right {
 	float: right;
 	border: outset ghostwhite;
+	height: auto;
 }
 .li_header_right:first-child{
 	border-left: none;
 	border: outset ghostwhite;
+	height: auto;
 }
 
 .li_header a {
