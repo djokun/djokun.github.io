@@ -71,7 +71,7 @@ ul.articles {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: beige;
+	background-color: moccasin;
 	border: double;
 	overflow: visible;
 	top: 0;
@@ -84,6 +84,7 @@ ul.articles {
 .li_header {
 	float: left;
 	height: auto;
+	border-right: double black;
 }
 .li_header:last-child{
 	border-right: none;
@@ -93,6 +94,7 @@ ul.articles {
 .li_header_right {
 	float: right;
 	height: auto;
+	border-left: double black;
 }
 .li_header_right:first-child{
 	border-left: none;

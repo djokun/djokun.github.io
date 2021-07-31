@@ -5,7 +5,7 @@
 <body>
 	<ul class=ul_header>
 		<li class=li_header><a href="index.html" class=homecolor>Home</a></li>
-		<li class=li_header><a href="#" class=writingcolor>Writings ≡</a>
+		<li class=li_header><a href="#" class=writingcolor>Writings <b>≡</b></a>
 			<ul>
 				<a href="philosophy.html" class=writingcolor>Philosophy</a>
 				<a href="writing.html" class=writingcolor>Creative Writing</a>
