@@ -31,6 +31,7 @@ body {
 }
 body.nothome {
 	height: auto;
+	padding-bottom: 20px;
 }
 h1 {
 	text-align: center;
@@ -71,7 +72,7 @@ ul.articles {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: navajowhite;
+	background-color: moccasin;
 	border: double;
 	overflow: visible;
 	top: 0;
@@ -79,6 +80,7 @@ ul.articles {
 	height:34px;
 	position: relative;
 	z-index:50;
+	box-shadow: 1px 1px 1px black;
 }
 
 .li_header {
@@ -140,6 +142,7 @@ ul.articles {
 	background-color: ghostwhite;
 	position: absolute;
 	z-index: 100;
+	box-shadow: 1px 1px 1px black;
 }
 .li_header:hover ul {
 	display: block;
@@ -156,6 +159,7 @@ ul.articles {
 	position: absolute;
 	right:1px;
 	z-index: 100;
+	box-shadow: 1px 1px 1px black;
 }
 .li_header_right:hover ul {
 	display: block;
@@ -195,7 +199,6 @@ a.button:hover {
 .copyhome {
 	color: black;
 	background-color: lightpink;
-	opacity: 0.9;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom; 5px;
@@ -205,7 +208,6 @@ a.button:hover {
 .copywriting {
 	color: black;
 	background-color: palegoldenrod;
-	opacity: 0.9;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom; 5px;
@@ -215,7 +217,6 @@ a.button:hover {
 .copybooks {
 	color: black;
 	background-color: powderblue;
-	opacity: 0.9;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom; 5px;
@@ -225,7 +226,6 @@ a.button:hover {
 .copyinfo {
 	color: black;
 	background-color: palegreen;
-	opacity: 0.9;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom; 5px;
