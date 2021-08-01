@@ -31,7 +31,7 @@ body {
 }
 body.nothome {
 	height: auto;
-	padding-bottom: 20px;
+	padding-bottom: 50px;
 }
 h1 {
 	text-align: center;
@@ -77,7 +77,7 @@ ul.articles {
 	overflow: visible;
 	top: 0;
 	width: auto;
-	height:34px;
+	height:26px;
 	position: relative;
 	z-index:50;
 	box-shadow: 1px 1px 1px black;
@@ -108,8 +108,9 @@ ul.articles {
 	font-size: 0.875em;
 	color: #222222;
 	text-align: center;
-	padding: 7px 5px;
-	height: 20px;
+	padding: 5px 5px;
+	line-height: 16px;
+	height: 16px;
 	text-decoration: none;
 }
 
@@ -122,8 +123,9 @@ ul.articles {
 	font-size: 0.875em;
 	color: #222222;
 	text-align: center;
-	padding: 7px 5px;
-	height: 20px;
+	line-height: 16px;
+	padding: 5px 5px;
+	height: 16px;
 	text-decoration: none;
 }
 
