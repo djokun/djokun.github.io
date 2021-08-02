@@ -170,16 +170,16 @@ ul.articles {
 
 /* colors for header */
 .homecolor {
-	background-color: lightpink;
+	background-color: coral;
 }
 .writingcolor {
 	background-color: palegoldenrod;
 }
 .bookscolor {
-	background-color: powderblue;
+	background-color: cadetblue;
 }
 .infocolor {
-	background-color: palegreen;
+	background-color: darkseagreen;
 }
 
 /* Buttons */
@@ -200,7 +200,7 @@ a.button:hover {
 
 .copyhome {
 	color: black;
-	background-color: lightpink;
+	background-color: coral;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom; 5px;
@@ -218,7 +218,7 @@ a.button:hover {
 }
 .copybooks {
 	color: black;
-	background-color: powderblue;
+	background-color: cadetblue;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom; 5px;
@@ -227,7 +227,7 @@ a.button:hover {
 }
 .copyinfo {
 	color: black;
-	background-color: palegreen;
+	background-color: darkseagreen;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom; 5px;
