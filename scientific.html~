@@ -5,7 +5,7 @@
 <body class=nothome>
 	<ul class=ul_header>
 		<li class=li_header><a href="index.html" class=homecolor>Home</a></li>
-		<li class=li_header><a href="#" class=writingcolor>Writings ⏷</a>
+		<li class=li_header><a href="#" class=writingcolor>Writings <b>≡</b></a>
 			<ul>
 				<a href="philosophy.html" class=writingcolor>Philosophy</a>
 				<a href="writing.html" class=writingcolor>Creative Writing</a>
@@ -15,7 +15,7 @@
 		</li>
 		<li class=li_header><a href="books.html" class=bookscolor>Favorite Books</a></li>
 		<!--<li class=li_header><a href="rainwatch.html">Rain Monitor</a></li>-->
-		<li class=li_header_right><a href="#" class=infocolor>Info ⏷</a>
+		<li class=li_header_right><a href="#" class=infocolor>Info <b>≡</b></a>
 			<ul>
 				<a href="about.html" class=infocolor>About</a>
 				<a href="contact.html" class=infocolor>Contact</a>
@@ -30,9 +30,9 @@
 	<p>
 	<ul class=articles>
 		<li><a href="https://www.unh.edu/inquiryjournal/spring-2021/extracting-bankfull-widths-and-stream-slopes-new-england-rivers">Extracting Bankfull Widths and Stream Slopes from New England Rivers</a></li>
-		<li><a href="HydrologyProject.pdf">A Water Budget Assessment for Poland Spring in Hollis, ME</a></li>
-		<li><a href="project1.pdf">ESCI 654 Project 1</a></li>
-		<li><a href="project2.pdf">ESCI 654 Project 2</a></li>
+		<li><a href="writing/scientific/HydrologyProject.pdf">A Water Budget Assessment for Poland Spring in Hollis, ME</a></li>
+		<li><a href="writing/scientific/project1.pdf">ESCI 654 Project 1</a></li>
+		<li><a href="writing/scientific/project2.pdf">ESCI 654 Project 2</a></li>
 	</ul>
 	</p>
 	</div>

@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/styles/stylesheet.css" media="screen"/>
 
 <html class=home>
 <body class=nothome>
@@ -30,7 +30,7 @@
 	<div class=copywriting>
 		<br>
 		<center>
-			<img class=cir_img_me src=bloomer.jpg width=30%>
+			<img class=cir_img_me src=/images/bloomer.jpg width=30%>
 		</center>
 	<p>
 	The Bloomer is the antithesis of the Doomer. Whereas the Doomer is the pinnacle of despair and sorrow, the Bloomer has overcome despair and enlightened himself. In this essay I will lay out how one goes from Doomer to Bloomer as well as the justification for having a Bloomer mindset in a seemingly tragic world.

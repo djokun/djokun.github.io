@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="../stylesheet.css" media="screen"/>
 
 <html class=home>
 <body class=nothome>
@@ -30,7 +30,7 @@
 	<div class=copywriting>
 		<br>
 		<center>
-		<img src=doomer.jpg class=cir_img_me width=30%>
+		<img src=/images/doomer.jpg class=cir_img_me width=30%>
 		</center>
 	<p>
 	The Doomer is characterized by entrenched feelings of bleakness, despair, hopelessness, and nihilism. Life is pointless, nothing will ever get better, everything is terrible. A Doomer is one who has incorporated depression into his personality such that the two are indistinguishable.
