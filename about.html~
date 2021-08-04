@@ -1,24 +1,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/styles/stylesheet.css" media="screen"/>
 
 <html class=info>
 <body class=nothome>
 	<ul class=ul_header>
-		<li class=li_header><a href="index.html" class=homecolor>Home</a></li>
+		<li class=li_header><a href="/index.html" class=homecolor>Home</a></li>
 		<li class=li_header><a href="#" class=writingcolor>Writings <b>≡</b></a>
 			<ul>
-				<a href="philosophy.html" class=writingcolor>Philosophy</a>
-				<a href="writing.html" class=writingcolor>Creative Writing</a>
-				<a href="scientific.html" class=writingcolor>Scientific Writing</a>
+				<a href="/philosophy.html" class=writingcolor>Philosophy</a>
+				<a href="/writing.html" class=writingcolor>Creative Writing</a>
+				<a href="/scientific.html" class=writingcolor>Scientific Writing</a>
 
 			</ul>
 		</li>
-		<li class=li_header><a href="books.html" class=bookscolor>Favorite Books</a></li>
+		<li class=li_header><a href="/books.html" class=bookscolor>Favorite Books</a></li>
 		<!--<li class=li_header><a href="rainwatch.html">Rain Monitor</a></li>-->
 		<li class=li_header_right><a href="#" class=infocolor>Info <b>≡</b></a>
 			<ul>
-				<a href="about.html" class=infocolor>About</a>
-				<a href="contact.html" class=infocolor>Contact</a>
+				<a href="/about.html" class=infocolor>About</a>
+				<a href="/contact.html" class=infocolor>Contact</a>
 			</ul>
 		</li>
 	</ul>
