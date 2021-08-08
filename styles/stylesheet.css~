@@ -1,23 +1,23 @@
 html.home {
 	background-color: #fcfcfc;
-	background-image: url("lineshome.png");
+	background-image: url("/images/lineshome.png");
 }
 html.writing {
 	background-color: #fcfcfc;
-	background-image: url("lineswrite.png");
+	background-image: url("/images/lineswrite.png");
 }
 html.books {
 	background-color: #fcfcfc;
-	background-image: url("linesbook.png");
+	background-image: url("/images/linesbook.png");
 }
 html.info {
 	background-color: #fcfcfc;
-	background-image: url("linesinfo.png");
+	background-image: url("/images/linesinfo.png");
 }
 
 body {
 	background-color: #eaeaea;
-	background-image: url("dots.png");
+	background-image: url("/images/dots.png");
 	color: #222222;
 	width: auto;
 	max-width: 600px;

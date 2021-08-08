@@ -32,6 +32,7 @@ body {
 body.nothome {
 	height: auto;
 	padding-bottom: 50px;
+	margin-bottom:2%
 }
 h1 {
 	text-align: center;
