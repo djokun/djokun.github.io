@@ -30,9 +30,9 @@ body {
 	box-shadow: 1px 1px 1px black;
 }
 body.nothome {
-	height: auto;
+	margin-bottom:2%;
 	padding-bottom: 50px;
-	margin-bottom:2%
+	height: auto;
 }
 h1 {
 	text-align: center;
