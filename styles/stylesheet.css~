@@ -1,23 +1,28 @@
 html.home {
 	background-color: #fcfcfc;
 	background-image: url("/images/lineshome.png");
+	background-attachment: fixed;
 }
 html.writing {
 	background-color: #fcfcfc;
 	background-image: url("/images/lineswrite.png");
+	background-attachment: fixed;
 }
 html.books {
 	background-color: #fcfcfc;
 	background-image: url("/images/linesbook.png");
+	background-attachment: fixed;
 }
 html.info {
 	background-color: #fcfcfc;
 	background-image: url("/images/linesinfo.png");
+	background-attachment: fixed;
 }
 
 body {
 	background-color: #eaeaea;
 	background-image: url("/images/dots.png");
+	background-attachment: fixed;
 	color: #222222;
 	width: auto;
 	max-width: 600px;

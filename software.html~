@@ -1,0 +1,61 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="/styles/stylesheet.css" media="screen"/>
+
+<html class=info>
+<body class=nothome>
+	<ul class=ul_header>
+		<li class=li_header><a href="/index.html" class=homecolor>Home</a></li>
+		<li class=li_header><a href="#" class=writingcolor>Writings <b>≡</b></a>
+			<ul>
+				<a href="/philosophy.html" class=writingcolor>Philosophy</a>
+				<a href="/writing.html" class=writingcolor>Creative Writing</a>
+				<a href="/scientific.html" class=writingcolor>Scientific Writing</a>
+				<a href="/opinion.html" class=writingcolor>Opinion</a>
+
+			</ul>
+		</li>
+		<li class=li_header><a href="/books.html" class=bookscolor>Favorite Books</a></li>
+		<!--<li class=li_header><a href="rainwatch.html">Rain Monitor</a></li>-->
+		<li class=li_header_right><a href="#" class=infocolor>Info <b>≡</b></a>
+			<ul>
+				<a href="/about.html" class=infocolor>About</a>
+				<a href="/contact.html" class=infocolor>Contact</a>
+			</ul>
+		</li>
+	</ul>
+	<br>
+	<h1>
+		Software I Use
+	</h1>
+	<div class=copyinfo>
+	<p>
+		My name is Dan Okuniewicz Jr.
+		I dropped out of college in 2016.
+		In 2019 I went back and got a degree in environmental science with a concentration in hydrology.
+		Always remember it's never too late to pursue something!
+	</p>
+	<p>
+		Likes: Water (need it to live), bees, chess, video games, beer, libre software, seafood.
+		<br>
+		Dislikes: Wasps (the insect), most cheeses (unfortunately), javascript.
+		<br>
+	</p>
+	<p>
+		I'm generally an easy person to get along with once you get past my capybara exterior.
+		I'm very tolerant towards other people's points of view (whether you agree with them or not).
+		One of my core beliefs is in uncensored speech, both IRL and Online.
+		Evil only survives when it is unexposed; by censoring we allow evil groups to fester and grow.
+		The only chance that good ideas have against bad ones is through direct competition.
+		Therefore, aside from a few reasonable guidelines (for example, not allowing people to instruct others to commit acts of violence), I believe that a healthy society relies on free exchange of ideas, even the bad ones.
+	</p>
+	<p>
+		On that vein, I believe that social networking services (SNS) have had a net negative impact on our society and that we should all do our best to limit their use.
+		I do understand that SNS provide vital functionality in our current society, and as such it is very difficult to completely cut ties with them.
+		For such cases (as in my case) I recommend only using them when necessary.
+	</p>
+	<p>
+		I hope you enjoy my writing, and if you like it feel free to email me through my contact link in the navigation bar above!
+	</p>
+	</div>
+</body>
+</html>
