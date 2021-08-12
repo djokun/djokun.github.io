@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="/styles/stylesheet.css" media="screen"/>
 
-<html class=home>
+<html class=writing>
 <body class=nothome>
 	<ul class=ul_header>
 		<li class=li_header><a href="/index.html" class=homecolor>Home</a></li>
