@@ -4,7 +4,7 @@
 <html class=home>
 <body>
 	<ul class=ul_header>
-		<li class=li_header><a href="index.html" class=homecolor>Home</a></li>
+		<li class=li_header><a href="/index.html" class=homecolor>Home</a></li>
 		<li class=li_header><a href="#" class=writingcolor>Writings <b>≡</b></a>
 			<ul>
 				<a href="/philosophy.html" class=writingcolor>Philosophy</a>
@@ -13,12 +13,12 @@
 				<a href="/opinion.html" class=writingcolor>Opinion</a>
 			</ul>
 		</li>
-		<li class=li_header><a href="books.html" class=bookscolor>Favorite Books</a></li>
+		<li class=li_header><a href="/books.html" class=bookscolor>Favorite Books</a></li>
 		<!--<li class=li_header><a href="rainwatch.html">Rain Monitor</a></li>-->
 		<li class=li_header_right><a href="#" class=infocolor>Info <b>≡</b></a>
 			<ul>
-				<a href="about.html" class=infocolor>About</a>
-				<a href="contact.html" class=infocolor>Contact</a>
+				<a href="/about.html" class=infocolor>About</a>
+				<a href="/contact.html" class=infocolor>Contact</a>
 			</ul>
 		</li>
 	</ul>
