@@ -41,16 +41,12 @@
 		<ul>
 			<li>Advice for college dropouts</li>
 			<li>Recommended software</li>
-			<li>Donation links</li>
-			<ul>
-				<li>in case someone actually likes what I write enough to give me money</li>
-			</ul>
 		</ul>
 	</p>
 	<h2>
 		Donations
 	</h2>
-	<p style="font-size: 10px;">
+	<p style="font-size: 10px">
 		<center>
 			<img src="/images/xmr.svg" width=10px> <b>Monero</b>
 			<br>
