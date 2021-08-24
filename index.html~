@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="/styles/stylesheet.css" media="screen"/>
 <link rel="shortcut icon" type="image/x-icon" href="me.ico?">
-<title>djokun</title>
+<title>Dan Okuniewicz</title>
 </head>
 
 <html class=home>
@@ -49,4 +49,12 @@
 	</p>
 	</div>
 </body>
+<footer>
+	<p>
+	<img src="/images/xmr.svg" width=10px> Monero
+	</p>
+	<p>
+47hHBEcPoDXcRejcnHiSvCJEKqpGKJfesGpUZUCtHcLaUrK1dhkk5YvgK3DNoTUEFTjWa2oDa1PXkbL9HWyBty9n1ZPWU77
+	</p>
+</footer>
 </html>
