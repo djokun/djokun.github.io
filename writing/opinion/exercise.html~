@@ -23,6 +23,7 @@
 			<ul>
 				<a href="/about.html" class=infocolor>About</a>
 				<a href="/contact.html" class=infocolor>Contact</a>
+				<a href="/software.html" class=infocolor>Computer Stuff</a>
 			</ul>
 		</li>
 	</ul>
@@ -171,6 +172,8 @@
 	<hr>
 	<footer>
 		<i>© 2021 Daniel J. Okuniewicz Jr. Verbatim copying and distribution of this entire article are permitted worldwide, without royalty, in any medium, provided this notice is preserved.</i>
+		<br>
+		Last Updated: August 18th, 2021
 	</footer>
 	</div>
 </body>

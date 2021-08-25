@@ -1,5 +1,9 @@
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="/styles/stylesheet.css" media="screen"/>
+<link rel="shortcut icon" type="image/x-icon" href="me.ico?">
+<title>Recommended Software</title>
+</head>
 
 <html class=info>
 <body class=nothome>
@@ -31,7 +35,7 @@
 		<h2>Operating System</h2>
 	<p>
 		I use GNU/Linux for my personal computing.
-		Right now I am using Solus Linux.
+		Right now I am using Solus Linux with the MATE desktop environment.
 		In the past I have used:
 		<ul>
 			<li>Ubuntu</li>
@@ -42,7 +46,7 @@
 		</ul>
 	</p>
 	<p>
-		In the past I would have recommended Ubuntu to people who have never used GNU/Linux before, however in recent years Canonical (the company who maintains Ubuntu) have become increasingly shady.
+		I used to recommend Ubuntu to people who have never used GNU/Linux before, however in recent years Canonical (the company who maintains Ubuntu) have become increasingly shady.
 		I also don't like snap packages and I prefer using a proper package manager&mdash;Canonical is gradually making snaps a requirement on desktop Ubuntu.
 	</p>
 	<p>
@@ -62,7 +66,7 @@
 		<h2>Hardware</h2>
 	<p>
 		My personal computer is a Dell Latitude e6440 that I rescued from my university (read: I asked if I could have it because the power port was banjaxed).
-		I've never purchased a personal computer in my entire life&mdash; an accomplishment I'm quite proud of.
+		I've never purchased a personal computer in my entire life&mdash;an accomplishment I'm quite proud of.
 		Nevertheless people often find themselves in need of a personal computer, whether because their current one broke or they feel they need to upgrade.
 	</p>
 	<p>
@@ -84,7 +88,47 @@
 		Recently there have been a lot of startups focusing on making personal computers that are more customizeable and user-serviceable.
 		I haven't had the good fortune to try any of them out!
 	</p>
-		<h2></h2>
+	<h2>Daily Programs</h2>
+	<h3>Text Editing</h3>
+	<p>
+		I use vim for general text editing, regular notepad if I'm forced to use an unfamiliar Windows computer.
+		I've heard that notepad++ is very good, too.
+	</p>
+	<h3>Documents</h3>
+	<p>
+		I used to use R markdown compiled to LaTeX, but I changed to using groff.
+		Groff is a much simpler typesetting system than LaTeX but it is very powerful.
+		I highly recommend learning groff!
+		I also recommend LaTeX, even for non-scientific disciplines.
+	</p>
+	<p>
+		The benefits of using a typesetting system instead of word processors is that they allow you to focus on the <i>content</i> and worry about the formatting at a different time.
+		They are also deterministic, i.e., you will always get the same results when you compile, whereas word processors like Microsoft Word will randomly break your configuration (if, for example, you insert an image in a spot the word processor doesn't like).
+		Typesetters like groff and LaTeX work with <i>plaintext</i> and compile them into pretty documents.
+		That means you can get all your formatting done separately from your actual work.
+		Track changes can even be done using version control software like git!
+	</p>
+	<h3>Web Browser</h3>
+	<p>
+		I have used Firefox for most of my life.
+		Sadly, Firefox has given into a lot of nonsense and decided to put politics above producing quality software.
+		Firefox has only gotten worse in the past decade, and their incompetence is reflected by their ever decreasing active users.
+	</p>
+	<p>
+		I can't stand Google, but unfortunately the Chromium model won in the end (in my opinion) and it is time to use a browser that actually cares about being innovative.
+		Therefore, I decided to use Brave.
+	</p>
+	<p>
+		Why Brave?
+		There are many reasons:
+		<ul>
+			<li>Brave has adblocking by default.</li>
+			<li>Brave is actually trying to be innovative in the browser market.</li>
+		</ul>
+		The Brave browser is trying to change the way ads work online by blocking Javascript-ridden, malware vectoring ads that plague the web and replacing them with an attention-based model.
+		The Brave model <i>pays</i> you to view ads voluntarily.
+		The current online ad model is deprecated and annoying.
+	</p>
 	</div>
 </body>
 </html>

@@ -23,6 +23,7 @@
 			<ul>
 				<a href="/about.html" class=infocolor>About</a>
 				<a href="/contact.html" class=infocolor>Contact</a>
+				<a href="/software.html" class=infocolor>Computer Stuff</a>
 			</ul>
 		</li>
 	</ul>
@@ -46,13 +47,11 @@
 	<h2>
 		Donations
 	</h2>
-	<center>
-		<p style="font-size: 10px;">
+		<p style="font-size: 10px; text-align: center;">
 			<img src="/images/xmr.svg" width=10px> <b>Monero</b>
 			<br>
 			47hHBEcPoDXcRejcnHiSvCJEKqpGKJfesGpUZUCtHcLaUrK1dhkk5YvgK3DNoTUEFTjWa2oDa1PXkbL9HWyBty9n1ZPWU77
 		</p>
-	</center>
 	</div>
 </body>
 </html>

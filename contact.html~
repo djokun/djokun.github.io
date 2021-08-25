@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="/styles/stylesheet.css" media="screen"/>
 <link rel="shortcut icon" type="image/x-icon" href="me.ico?">
-<title>Contact</title>
+<title>Contact Info</title>
 </head>
 
 <html class=info>
@@ -24,6 +24,7 @@
 			<ul>
 				<a href="/about.html" class=infocolor>About</a>
 				<a href="/contact.html" class=infocolor>Contact</a>
+				<a href="/software.html" class=infocolor>Recommended Software</a>
 			</ul>
 		</li>
 	</ul>
