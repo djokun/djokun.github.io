@@ -20,7 +20,7 @@ html.info {
 }
 
 body {
-	background-color: #eaeaea;
+	background-color: gainsboro;
 	background-attachment: fixed;
 	color: #222222;
 	width: auto;
