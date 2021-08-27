@@ -21,7 +21,6 @@ html.info {
 
 body {
 	background-color: #eaeaea;
-	background-image: url("/images/dots.png");
 	background-attachment: fixed;
 	color: #222222;
 	width: auto;

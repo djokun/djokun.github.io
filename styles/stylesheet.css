@@ -20,8 +20,7 @@ html.info {
 }
 
 body {
-	background-color: #eaeaea;
-	background-image: url("/images/dots.png");
+	background-color: gainsboro;
 	background-attachment: fixed;
 	color: #222222;
 	width: auto;
