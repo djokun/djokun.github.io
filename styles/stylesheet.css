@@ -1,22 +1,24 @@
-html.home {
+html {
 	background-color: #fcfcfc;
-	background-image: url("/images/lineshome.png");
 	background-attachment: fixed;
+	color: black;
+}
+html.home {
+	background-image: url("/images/lineshome.png");
 }
 html.writing {
-	background-color: #fcfcfc;
 	background-image: url("/images/lineswrite.png");
-	background-attachment: fixed;
 }
 html.books {
-	background-color: #fcfcfc;
 	background-image: url("/images/linesbook.png");
-	background-attachment: fixed;
 }
 html.info {
-	background-color: #fcfcfc;
 	background-image: url("/images/linesinfo.png");
-	background-attachment: fixed;
+}
+html.spooky {
+	background-color: black;
+	background-image: url("/images/linesspooky.png");
+	color: white;
 }
 
 body {
@@ -186,6 +188,9 @@ ul.articles {
 .infocolor {
 	background-color: darkseagreen;
 }
+.spookycolor {
+	background-color: darkslategray;
+}
 
 /* Buttons */
 a.button {
@@ -238,6 +243,16 @@ a.button:hover {
 	padding-bottom; 5px;
 	border: double;
 	box-shadow: 1px 1px 1px black;	
+}
+.copyspooky {
+	color: white;
+	background-color: darkslategray;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	border-color: white;
+	box-shadow: 1px 1px 1px white;	
 }
 p {
 	text-align: left;
