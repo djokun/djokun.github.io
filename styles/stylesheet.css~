@@ -16,6 +16,7 @@ html.info {
 	background-image: url("/images/linesinfo.png");
 }
 html.spooky {
+	background-color: black;
 	background-image: url("/images/linesspooky.png");
 	color: white;
 }
