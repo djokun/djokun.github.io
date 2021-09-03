@@ -46,6 +46,7 @@ body.spooky {
 	margin-bottom:2%;
 	padding-bottom: 50px;
 	height: auto;
+	border-color: black;
 }
 h1 {
 	text-align: center;
