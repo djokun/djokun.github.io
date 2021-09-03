@@ -16,9 +16,7 @@ html.info {
 	background-image: url("/images/linesinfo.png");
 }
 html.spooky {
-	background-color: black;
 	background-image: url("/images/linesspooky.png");
-	color: white;
 }
 
 body {
@@ -39,14 +37,6 @@ body.nothome {
 	margin-bottom:2%;
 	padding-bottom: 50px;
 	height: auto;
-}
-body.spooky {
-	background-color: #111111;
-	color: white;
-	margin-bottom:2%;
-	padding-bottom: 50px;
-	height: auto;
-	border-color: black;
 }
 h1 {
 	text-align: center;
@@ -194,8 +184,7 @@ ul.articles {
 	background-color: darkseagreen;
 }
 .spookycolor {
-	color: white;
-	background-color: darkslategray;
+	background-color: rosybrown;
 }
 
 /* Buttons */
@@ -251,14 +240,13 @@ a.button:hover {
 	box-shadow: 1px 1px 1px black;	
 }
 .copyspooky {
-	color: white;
-	background-color: darkslategray;
+	color: black;
+	background-color: rosybrown;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom; 5px;
 	border: double;
-	border-color: white;
-	box-shadow: 1px 1px 1px white;	
+	box-shadow: 1px 1px 1px black;	
 }
 p {
 	text-align: left;
