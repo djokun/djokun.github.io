@@ -8,12 +8,12 @@
 <html class=books>
 <body class=nothome>
 	<ul class=ul_header>
-		<li class=li_header><a href="index.html" class=homecolor>Home</a></li>
+		<li class=li_header><a href="/index.html" class=homecolor>Home</a></li>
 		<li class=li_header><a href="#" class=writingcolor>Writings <b>≡</b></a>
 			<ul>
-				<a href="philosophy.html" class=writingcolor>Philosophy</a>
-				<a href="writing.html" class=writingcolor>Creative Writing</a>
-				<a href="scientific.html" class=writingcolor>Scientific Writing</a>
+				<a href="/philosophy.html" class=writingcolor>Philosophy</a>
+				<a href="/writing.html" class=writingcolor>Creative Writing</a>
+				<a href="/scientific.html" class=writingcolor>Scientific Writing</a>
 				<a href="/opinion.html" class=writingcolor>Opinion</a>
 
 			</ul>
