@@ -18,8 +18,8 @@
 
 			</ul>
 		</li>
-		<li class=li_header><a href="/books.html" class=bookscolor>Favorite Books</a></li>
-		<li class=li_header><a href="#" class=spookycolor>Spooky Things <b>≡</b></a>
+		<li class=li_header><a href="/books.html" class=bookscolor>Books</a></li>
+		<li class=li_header><a href="#" class=spookycolor>Occult <b>≡</b></a>
 			<ul>
 				<a href="/occult/spooks.html" class=spookycolor>Spooky Stuff</a>
 
@@ -40,7 +40,7 @@
 	</h1>
 	<div class=copyspooky>
 	<p>
-	<h2>Tech</h2>
+	<h2>Tracking Technology</h2>
 	<ul class=articles>
 		<li>Printer Steganography</li>
 		<li>Javascript Fingerprinting</li>
@@ -53,6 +53,18 @@
 		<li>Remotely Planted Evidence</li>
 		<li>Behavioral Manipulation Through Social Media</li>
 	</ul>
+	</p>
+	<p>
+	<h2>Parapsychology</h2>
+		<li>Sleep Paralysis</li>
+		<li>Astral Projection</li>
+		<li>Lucid Dreaming</li>
+		<li>The Ganzfeld Effect</li>
+		<li>Binaural Beats</li>
+		<li><a href=https://global-mind.org/gcpdot/">Global Consciousness</a></li>
+	</p>
+	<p>
+	<h2></h2>
 	</p>
 	</div>
 </body>
