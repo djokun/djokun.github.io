@@ -18,8 +18,8 @@
 
 			</ul>
 		</li>
-		<li class=li_header><a href="/books.html" class=bookscolor>Favorite Books</a></li>
-		<li class=li_header><a href="#" class=spookycolor>Spooky Things <b>≡</b></a>
+		<li class=li_header><a href="/books.html" class=bookscolor>Books</a></li>
+		<li class=li_header><a href="#" class=spookycolor>Occult <b>≡</b></a>
 			<ul>
 				<a href="/occult/spooks.html" class=spookycolor>Spooky Stuff</a>
 
@@ -41,22 +41,25 @@
 	<div class=copyinfo>
 	<h3>Email</h3>
 	<p>
-	djokuniewicz@outlook.com
+    djokuniewicz@outlook.com
 	</p>
 	<p>
-	By the way, attempting to obfuscate your email (by using [at] instead of @, for example) is utterly pointless.
-	The bots that might scrape your email on your no-name website can easily substitute those obfuscations anyway.
-	Preventing scraping requires measures other than simple find-and-replace on your contact information.
+    By the way, attempting to obfuscate your email (by using [at] instead of @, for example) is utterly pointless.
+    The bots that might scrape your email on your no-name website can easily substitute those obfuscations anyway.
+    Preventing scraping requires measures other than simple find-and-replace on your contact information.
 	</p>
+  <p>
+    Also, just in case, I want to make it clear that I am not looking for any web development services, lmao.
+  </p>
 	<h3>Twitter</h3>
 	<p>
-	I used to have Twitter because it was better than Facebook (mainly the fact that the timeline wasn't arbitrarily shuffled and filtered), but I stopped using it because while Facebook is a growing malilgnant tumor, Twitter is a festering, infected wound of a platform.
-	Everything on Twitter is absolute insanity and it only gets worse as time goes on.
-	I see Twitter as a lost cause because the company encourages that environment.
+    I used to have Twitter because it was better than Facebook (mainly the fact that the timeline wasn't arbitrarily shuffled and filtered), but I stopped using it because while Facebook is a growing malilgnant tumor, Twitter is a festering, infected wound of a platform.
+    Everything on Twitter is absolute insanity and it only gets worse as time goes on.
+    I see Twitter as a lost cause because the company encourages that environment.
 	</p>
 	<h3>Lichess</h3>
 	<p>
-	@Reifier
+    @Reifier
 	</p>
 	</div>
 </body>
