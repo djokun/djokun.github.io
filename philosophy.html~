@@ -18,8 +18,8 @@
 
 			</ul>
 		</li>
-		<li class=li_header><a href="/books.html" class=bookscolor>Favorite Books</a></li>
-		<li class=li_header><a href="#" class=spookycolor>Spooky Things <b>≡</b></a>
+		<li class=li_header><a href="/books.html" class=bookscolor>Books</a></li>
+		<li class=li_header><a href="#" class=spookycolor>Occult <b>≡</b></a>
 			<ul>
 				<a href="/occult/spooks.html" class=spookycolor>Spooky Stuff</a>
 
@@ -41,6 +41,7 @@
 	<div class=copywriting>
 	<p>
 	<ul class=articles>
+    <li><a href="/writing/philosophy/freespeech.html">On Free Speech</a></li>
 		<li><a href="/writing/philosophy/doomermindset.html">Doomer Mindset</a></li>
 		<li><a href="/writing/philosophy/bloomermindset.html">Bloomer Mindset</a></li>
 		<li><a href="/writing/philosophy/determinism.html">Determinism is an Illusion</a></li>
