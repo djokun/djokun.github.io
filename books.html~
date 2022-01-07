@@ -1,0 +1,69 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="/styles/stylesheet.css" media="screen"/>
+<link rel="shortcut icon" type="image/x-icon" href="me.ico?">
+<title>Favorite Books</title>
+</head>
+
+<html class=books>
+<body class=nothome>
+	<ul class=ul_header>
+		<li class=li_header><a href="/index.html" class=homecolor>Home</a></li>
+		<li class=li_header><a href="#" class=writingcolor>Writings <b>≡</b></a>
+			<ul>
+				<a href="/philosophy.html" class=writingcolor>Philosophy</a>
+				<a href="/writing.html" class=writingcolor>Creative Writing</a>
+				<a href="/scientific.html" class=writingcolor>Scientific Writing</a>
+				<a href="/opinion.html" class=writingcolor>Opinion</a>
+
+			</ul>
+		</li>
+		<li class=li_header><a href="books.html" class=bookscolor>Favorite Books</a></li>
+		<li class=li_header><a href="#" class=spookycolor>Spooky Things <b>≡</b></a>
+			<ul>
+				<a href="/occult/spooks.html" class=spookycolor>Spooky Stuff</a>
+
+			</ul>
+		</li>
+		<!--<li class=li_header><a href="rainwatch.html">Rain Monitor</a></li>-->
+		<li class=li_header_right><a href="#" class=infocolor>Info <b>≡</b></a>
+			<ul>
+				<a href="about.html" class=infocolor>About</a>
+				<a href="contact.html" class=infocolor>Contact</a>
+				<a href="/software.html" class=infocolor>Computer Stuff</a>
+			</ul>
+		</li>
+	</ul>
+	<br>
+	<h1>
+		Favorite Books	
+	</h1>
+	<div class=copybooks>
+	<p>
+	<h2>Fiction</h2>
+	<ul class=articles>
+		<li>The Phantom Tollbooth - by Norton Juster</li>
+		<li>The Solitude of Prime Numbers - by Paolo Giordano</li>
+		<li>The Goldfinch - by Donna Tart</li>
+		<li>The Count of Monte Cristo - by Alexandre Dumas</li>
+		<li>Anna Karenina - by Leo Tolstoy</li>
+		<li>The Remains of the Day - by Kazuo Ishiguro</li>
+		<li>The Stranger - by Albert Camus</li>
+		<li>Angels in America - by Tony Kushner</li>
+		<li>The Giver - by Lois Lowry</li>
+	</ul>
+	<h2>Nonfiction</h2>
+	<ul>
+		<li>Republic - by Plato</li>
+		<li>Wizard, The Life and Times of Nikola Tesla - by Mark J. Seifer</li>
+		<li>The Wizard and The Prophet - by Charles C. Mann</li>
+		<li>Life's Matrix: A Biography of Water - by Philip Ball</li>
+		<li>The Art of War - by Sun Tzu</li>
+		<li>The Structure of Scientific Revolutions - by Thomas S. Kuhn</li>
+		<li>I and Thou - by Martin Buber</li>
+		<li>Mountains Beyond Mountains - by Tracy Kidder</li>
+	</ul>
+	</p>
+	</div>
+</body>
+</html>
