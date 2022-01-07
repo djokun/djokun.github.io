@@ -1,17 +1,31 @@
 html {
 	background-color: #fcfcfc;
 	background-attachment: fixed;
-	background-image: url("/images/scanlines.png");
 	color: black;
+}
+html.home {
+	background-image: url("/images/lineshome.png");
+}
+html.writing {
+	background-image: url("/images/lineswrite.png");
+}
+html.books {
+	background-image: url("/images/linesbook.png");
+}
+html.info {
+	background-image: url("/images/linesinfo.png");
+}
+html.spooky {
+	background-image: url("/images/linesspooky.png");
 }
 
 body {
 	background-color: linen;
 	background-attachment: fixed;
 	color: #222222;
-	width: 640px;
+	width: auto;
 	max-width: 800px;
-	height: 480px;
+	height: auto;
 	margin: auto;
 	margin-top: 2%;
   margin-bottom: 2%;
@@ -20,46 +34,11 @@ body {
 	border: double;
 	box-shadow: 1px 1px 1px black;
 }
-
-/* emulate a windows nt window */
-* {
-  box-sizing: border-box;
+body.nothome {
+	margin-bottom:2%;
+	padding-bottom: 50px;
+	height: auto;
 }
-
-.container {
-  border: 1px solid black;
-  max-height:95%;
-  overflow-y:auto;
-}
-
-.top {
-  height: 22px;
-  padding: 2px;
-  border-top: 1px solid black;
-  border-right: 1px solid black;
-  border-left: 1px solid black;
-  background: darkgrey;
-  font-size: 12px;
-  text-align: center;
-}
-
-.x {
-  border: 1px solid black;
-  width: 18px;
-  color: black;
-  background-color:lightgrey;
-  float: right;
-}
-.x:hover {
-  color: black;
-  background-color: grey;
-}
-
-.content {
-  background-color: #f1f1f1;
-  padding: 10px;
-}
-
 h1 {
 	text-align: center;
 	height: ;
@@ -80,16 +59,195 @@ hr {
 	max-width: 50%;
 }
 a:link	{
-	color: black;
-  text-decoration: none;
+	color: darkblue;
 }
 a:visited{
 	color: black;
-  text-decoration: none;
 }
 
+ul.articles {
+	list-style-type: square;
+}
 /* Heading for homepage with blue as background */
 
+/* Header containing links to web pages */
+.ul_header {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border: double;
+	overflow: visible;
+	top: 0;
+	width: auto;
+	height:26px;
+	position: relative;
+	z-index:50;
+	box-shadow: 1px 1px 1px black;
+}
+
+.li_header {
+	float: left;
+	height: auto;
+	border-right: double black;
+}
+.li_header:last-child{
+	border-right: none;
+	height: auto;
+}
+
+.li_header_right {
+	float: right;
+	height: auto;
+	border-left: double black;
+}
+.li_header_right:first-child{
+	border-left: none;
+	height: auto;
+}
+
+.li_header a {
+	display: block;
+	font-size: 0.875em;
+	color: #222222;
+	text-align: center;
+	padding: 5px 5px;
+	line-height: 16px;
+	height: 16px;
+	text-decoration: none;
+}
+
+.li_header a:hover{
+	background-color: #d9e4e4;
+}
+
+.li_header_right a {
+	display: block;
+	font-size: 0.875em;
+	color: #222222;
+	text-align: center;
+	padding: 5px 5px;
+	line-height: 16px;
+	height: 16px;
+	text-decoration: none;
+}
+
+.li_header_right a:hover{
+	background-color: #d9e4e4;
+}
+
+/* Dropdown menu */
+.li_header ul {
+	display: none;
+	text-align: center;
+	padding: 0;
+	list-style: none;
+	width: 100px;
+	border: double black;
+	background-color: ghostwhite;
+	position: absolute;
+	z-index: 100;
+	box-shadow: 1px 1px 1px black;
+}
+.li_header:hover ul {
+	display: block;
+	float: top;
+}
+.li_header_right ul {
+	display: none;
+	text-align: center;
+	padding: 0;
+	list-style: none;
+	width: 100px;
+	border: double black;
+	background-color: ghostwhite;
+	position: absolute;
+	right:1px;
+	z-index: 100;
+	box-shadow: 1px 1px 1px black;
+}
+.li_header_right:hover ul {
+	display: block;
+	float: top;
+}
+
+/* colors for header */
+.homecolor {
+	background-color: coral;
+}
+.writingcolor {
+	background-color: palegoldenrod;
+}
+.bookscolor {
+	background-color: cadetblue;
+}
+.infocolor {
+	background-color: darkseagreen;
+}
+.spookycolor {
+	background-color: rosybrown;
+}
+
+/* Buttons */
+a.button {
+	appearance: button;
+	text-decoration: none;
+	color: #222222;
+	font-size: 20px;
+	display: inline-block;
+	text-align: center;
+	padding: 16px 20px;
+	background-color: #6699cc;
+	border: 2px solid #222222;
+}
+a.button:hover {
+	background-color: #ffd976;
+}
+
+.copyhome {
+	color: black;
+	background-color: coral;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
+.copywriting {
+	color: black;
+	background-color: palegoldenrod;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
+.copybooks {
+	color: black;
+	background-color: cadetblue;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
+.copyinfo {
+	color: black;
+	background-color: darkseagreen;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
+.copyspooky {
+	color: black;
+	background-color: rosybrown;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
 p {
 	text-align: left;
 	font-size: 0.875em;
@@ -126,16 +284,4 @@ p.footnote {
 /* Circular Images */
 .cir_img_me {
 	border-radius: 50%;
-}
-.img_folder {
-  position: relative;
-  display: inline-block;
-  width: 50px;
-}
-.img_folder p {
-  position: absolute;
-  font-size: 12px;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto; 
 }
