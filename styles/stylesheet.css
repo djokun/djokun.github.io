@@ -1,0 +1,141 @@
+html {
+	background-color: #fcfcfc;
+	background-attachment: fixed;
+	background-image: url("/images/scanlines.png");
+	color: black;
+}
+
+body {
+	background-color: linen;
+	background-attachment: fixed;
+	color: #222222;
+	width: 640px;
+	max-width: 800px;
+	height: 480px;
+	margin: auto;
+	margin-top: 2%;
+  margin-bottom: 2%;
+	padding: 10px;
+	font-size: 100%;
+	border: double;
+	box-shadow: 1px 1px 1px black;
+}
+
+/* emulate a windows nt window */
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  border: 1px solid black;
+  max-height:95%;
+  overflow-y:auto;
+}
+
+.top {
+  height: 22px;
+  padding: 2px;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  background: darkgrey;
+  font-size: 12px;
+  text-align: center;
+}
+
+.x {
+  border: 1px solid black;
+  width: 18px;
+  color: black;
+  background-color:lightgrey;
+  float: right;
+}
+.x:hover {
+  color: black;
+  background-color: grey;
+}
+
+.content {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+h1 {
+	text-align: center;
+	height: ;
+	font-size: 1.5em;
+	-webkit-font-smoothing: antialiased;
+}
+h2 {
+	text-align: center;
+	font-size: 1.25em;
+}
+h3 {
+	text-align: center;
+	font-size: 1.0em;
+}
+hr {
+	color: black;
+	border-top: 2px dotted;
+	max-width: 50%;
+}
+a:link	{
+	color: black;
+  text-decoration: none;
+}
+a:visited{
+	color: black;
+  text-decoration: none;
+}
+
+/* Heading for homepage with blue as background */
+
+p {
+	text-align: left;
+	font-size: 0.875em;
+}
+
+ul {
+	font-size: 0.875em;
+}
+ol {
+	font-size: 0.875em;
+}
+
+footer	{
+	font-size: 0.875em;
+	position: auto;
+	padding-bottom: 5px;
+}
+
+p.footnote {
+	font-size: 0.7em;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+	flex: 50%;
+	padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+/* Circular Images */
+.cir_img_me {
+	border-radius: 50%;
+}
+.img_folder {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+}
+.img_folder p {
+  position: absolute;
+  font-size: 12px;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto; 
+}
