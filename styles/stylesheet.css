@@ -85,7 +85,7 @@ p.footnote {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: darkslategrey;
   overflow-x: hidden;
   padding-top: 20px;
 }
@@ -99,7 +99,8 @@ p.footnote {
 }
 
 .sidenav a:hover {
-  color: coral;
+  color: black;
+  background-color: linen;
 }
 
 .main {
