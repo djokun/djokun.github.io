@@ -7,113 +7,117 @@
 
 <html>
 <body>
-<div class="top">
-  <span><b>Software I use, etc.</b></span>
-  <a href="/index.html"><div class="x">x</div></a>
-</div>
-<div class="container">
-  <div class="content">
-		<h2>Operating System</h2>
-	<p>
-		I use GNU/Linux for my personal computing.
-		Right now I am using Xubuntu (Ubuntu with XFCE desktop environment).
-		In the past I have used:
-		<ul>
-			<li>Ubuntu</li>
-			<li>Debian</li>
-			<li>Arch</li>
-			<li>Manjaro</li>
-			<li>Void</li>
-      <li>Solus</li>
-		</ul>
-	</p>
-	<p>
-		In recent years Canonical (the company who maintains Ubuntu) have become increasingly shady.
-		I also don't like snap packages and I prefer using a proper package manager&mdash;Canonical is gradually making snaps a requirement on desktop Ubuntu.
-    Until then, Ubuntu is a solid distro that a lot of people use (therefore a lot of software is available for it) and snapd is really easy to remove.
-	</p>
-	<p>
-		I still recommend Ubuntu for newbies to GNU/Linux simply because it is still the most ubiquitous GNU/Linux distribution out there.
-		A lot of software will work on Ubuntu and is easily available, whereas smaller projects like Solus do not have as many packages.
-	</p>
-	<p>
-		If you want something that Just Werks&trade;, any of the following will do:
-		<ul>
-			<li>Ubuntu</li>
-			<li>Manjaro</li>
-			<li>Mint</li>
-			<li>Solus</li>
-			<li>PopOS</li>
-		</ul>
-	</p>
-		<h2>Hardware</h2>
-	<p>
-		My personal computer is a Dell Latitude e6440 that I rescued from my university (read: I asked if I could have it because the power port was banjaxed).
-		I've never purchased a personal computer in my entire life&mdash;an accomplishment I'm quite proud of.
-		Nevertheless people often find themselves in need of a personal computer, whether because their current one broke or they feel they need to upgrade.
-	</p>
-	<p>
-		I highly recommend, if you must purchase a personal computer, to buy one used or refurbished.
-		Not only is it better for the environment, it is just plain savvy.
-		Why waste a ton of money on a brand new computer when computers up to 10 years old work just fine?<a href=#f1>[1]</a>
-	</p>
-	<p id=f1 class=footnote>[1] Computers "slow down" as they age because Windows is awful software. If we're talking online it's because most websites are also bad software (Javascript-ridden messes of spaghetti code to load hundreds of megabytes of ads). Install an ad blocker and use something that isn't Windows.</p>
-	<p>
-		Thinkpads used to be the pinnacle of laptops, but Lenovo is turning them into trash Mac clones like everyone else tries (and fails) to do.
-		Not only that, but thinkpads have turned into hipster accessories.
-		People want thinkpads because it makes them look cool, rather than for the functionality and dependability.
-		Therefore, I recommend getting a Dell or HP equivalent (Dell Latitude series or HP Pavilion series).
-		Apple computers are good but they're definitely overpriced.
-		Not a problem if you buy used or refurbished, most of the time.
-		If you're not into fixing your own computer an Apple will work really well.
-	</p>
-	<p>
-		Recently there have been a lot of startups focusing on making personal computers that are more customizeable and user-serviceable.
-		I haven't had the good fortune to try any of them out!
-	</p>
-	<h2>Daily Programs</h2>
-	<h3>Text Editing</h3>
-	<p>
-		I use vim for general text editing, regular notepad if I'm forced to use an unfamiliar Windows computer.
-		I've heard that notepad++ is very good, too.
-	</p>
-	<h3>Documents</h3>
-	<p>
-		I used to use R markdown compiled to LaTeX, but I changed to using groff.
-		Groff is a much simpler typesetting system than LaTeX but it is very powerful.
-		I highly recommend learning groff!
-		I also recommend LaTeX, even for non-scientific disciplines.
-	</p>
-	<p>
-		The benefits of using a typesetting system instead of word processors is that they allow you to focus on the <i>content</i> and worry about the formatting at a different time.
-		They are also deterministic, i.e., you will always get the same results when you compile, whereas word processors like Microsoft Word will randomly break your configuration (if, for example, you insert an image in a spot the word processor doesn't like).
-		Typesetters like groff and LaTeX work with <i>plaintext</i> and compile them into pretty documents.
-		That means you can get all your formatting done separately from your actual work.
-		Track changes can even be done using version control software like git!
-	</p>
-	<h3>Web Browser</h3>
-	<p>
-		I have used Firefox for most of my life.
-		Sadly, Firefox has given into a lot of nonsense and decided to put politics above producing quality software.
-		Firefox has only gotten worse in the past decade, and their incompetence is reflected by their ever decreasing active users.
-	</p>
-	<p>
-		I can't stand Google, but unfortunately the Chromium model won in the end (in my opinion) and it is time to use a browser that actually cares about being innovative.
-		Therefore, I decided to use Brave.
-	</p>
-	<p>
-		Why Brave?
-		There are many reasons:
-		<ul>
-			<li>Brave has adblocking by default.</li>
-			<li>Brave is actually trying to be innovative in the browser market.</li>
-		</ul>
-	</p>
-	<p>
-		The Brave browser is trying to change the way ads work online by blocking Javascript-ridden, malware vectoring ads that plague the web and replacing them with an attention-based model.
-		The Brave model <i>pays</i> you to view ads voluntarily.
-		The current online ad model is deprecated and annoying.
-	</p>
-	</div>
+  <div class="sidenav">
+    <a href="/index.html">Home</a>
+    <a href="/writings.html">Writings</a>
+    <a href="/books.html">Books</a>
+    <a href="/occult.html">Occult</a>
+    <a href="/about.html">About Me</a>
+    <a href="/contact.html">Contact</a>
+    <a href="/software.html">Computer Stuff</a>
+  </div>
+  <div class="main">
+      <h2>Operating System</h2>
+    <p>
+      I use GNU/Linux for my personal computing.
+      Right now I am using Xubuntu (Ubuntu with XFCE desktop environment).
+      In the past I have used:
+      <ul>
+        <li>Ubuntu</li>
+        <li>Debian</li>
+        <li>Arch</li>
+        <li>Manjaro</li>
+        <li>Void</li>
+        <li>Solus</li>
+      </ul>
+    </p>
+    <p>
+      In recent years Canonical (the company who maintains Ubuntu) have become increasingly shady.
+      I also don't like snap packages and I prefer using a proper package manager&mdash;Canonical is gradually making snaps a requirement on desktop Ubuntu.
+      Until then, Ubuntu is a solid distro that a lot of people use (therefore a lot of software is available for it) and snapd is really easy to remove.
+    </p>
+    <p>
+      I still recommend Ubuntu for newbies to GNU/Linux simply because it is still the most ubiquitous GNU/Linux distribution out there.
+      A lot of software will work on Ubuntu and is easily available, whereas smaller projects like Solus do not have as many packages.
+    </p>
+    <p>
+      If you want something that Just Werks&trade;, any of the following will do:
+      <ul>
+        <li>Ubuntu</li>
+        <li>Manjaro</li>
+        <li>Mint</li>
+        <li>Solus</li>
+        <li>PopOS</li>
+      </ul>
+    </p>
+      <h2>Hardware</h2>
+    <p>
+      My personal computer is a Dell Latitude e6440 that I rescued from my university (read: I asked if I could have it because the power port was banjaxed).
+      I've never purchased a personal computer in my entire life&mdash;an accomplishment I'm quite proud of.
+      Nevertheless people often find themselves in need of a personal computer, whether because their current one broke or they feel they need to upgrade.
+    </p>
+    <p>
+      I highly recommend, if you must purchase a personal computer, to buy one used or refurbished.
+      Not only is it better for the environment, it is just plain savvy.
+      Why waste a ton of money on a brand new computer when computers up to 10 years old work just fine?<a href=#f1>[1]</a>
+    </p>
+    <p id=f1 class=footnote>[1] Computers "slow down" as they age because Windows is awful software. If we're talking online it's because most websites are also bad software (Javascript-ridden messes of spaghetti code to load hundreds of megabytes of ads). Install an ad blocker and use something that isn't Windows.</p>
+    <p>
+      Thinkpads used to be the pinnacle of laptops, but Lenovo is turning them into trash Mac clones like everyone else tries (and fails) to do.
+      Not only that, but thinkpads have turned into hipster accessories.
+      People want thinkpads because it makes them look cool, rather than for the functionality and dependability.
+      Therefore, I recommend getting a Dell or HP equivalent (Dell Latitude series or HP Pavilion series).
+      Apple computers are good but they're definitely overpriced.
+      Not a problem if you buy used or refurbished, most of the time.
+      If you're not into fixing your own computer an Apple will work really well.
+    </p>
+    <p>
+      Recently there have been a lot of startups focusing on making personal computers that are more customizeable and user-serviceable.
+      I haven't had the good fortune to try any of them out!
+    </p>
+    <h2>Daily Programs</h2>
+    <h3>Text Editing</h3>
+    <p>
+      I use vim for general text editing, regular notepad if I'm forced to use an unfamiliar Windows computer.
+      I've heard that notepad++ is very good, too.
+    </p>
+    <h3>Documents</h3>
+    <p>
+      I used to use R markdown compiled to LaTeX, but I changed to using groff.
+      Groff is a much simpler typesetting system than LaTeX but it is very powerful.
+      I highly recommend learning groff!
+      I also recommend LaTeX, even for non-scientific disciplines.
+    </p>
+    <p>
+      The benefits of using a typesetting system instead of word processors is that they allow you to focus on the <i>content</i> and worry about the formatting at a different time.
+      They are also deterministic, i.e., you will always get the same results when you compile, whereas word processors like Microsoft Word will randomly break your configuration (if, for example, you insert an image in a spot the word processor doesn't like).
+      Typesetters like groff and LaTeX work with <i>plaintext</i> and compile them into pretty documents.
+      That means you can get all your formatting done separately from your actual work.
+      Track changes can even be done using version control software like git!
+    </p>
+    <h3>Web Browser</h3>
+    <p>
+      I have used Firefox for most of my life.
+      Sadly, Firefox has given into a lot of nonsense and decided to put politics above producing quality software.
+      Firefox has only gotten worse in the past decade, and their incompetence is reflected by their ever decreasing active users.
+    </p>
+    <p>
+      I can't stand Google, but unfortunately the Chromium model won in the end (in my opinion) and it is time to use a browser that actually cares about being innovative.
+      Therefore, I decided to use Brave.
+    </p>
+    <p>
+      Why Brave?
+      There are many reasons:
+      <ul>
+        <li>Brave has adblocking by default.</li>
+        <li>Brave is actually trying to be innovative in the browser market.</li>
+      </ul>
+    </p>
+    <p>
+      The Brave browser is trying to change the way ads work online by blocking Javascript-ridden, malware vectoring ads that plague the web and replacing them with an attention-based model.
+      The Brave model <i>pays</i> you to view ads voluntarily.
+      The current online ad model is deprecated and annoying.
+    </p>
+  </div>
 </body>
 </html>
