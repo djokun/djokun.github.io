@@ -6,6 +6,11 @@ body {
   font-family: "Lato", sans-serif;
 }
 
+table, th, td {
+  border: 1px solid black;
+  font-size: 1.5vw;
+}
+
 h1 {
 	text-align: center;
 	height: ;
@@ -60,6 +65,7 @@ footer	{
 p.footnote {
 	font-size: 0.7em;
 }
+
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
 	flex: 50%;
