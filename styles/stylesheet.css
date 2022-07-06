@@ -27,7 +27,6 @@ h3 {
 }
 hr {
 	color: black;
-	border-top: 2px dotted;
 	max-width: 50%;
 }
 a:link	{
@@ -41,6 +40,14 @@ a:visited{
 p {
 	text-align: left;
 	font-size: 0.875em;
+}
+
+p.pullquote {
+  text-align: center;
+  margin-right: 28%;
+  margin-left: 28%;
+  font-size: 1.1em;
+  color: grey;
 }
 
 ul {
@@ -57,7 +64,7 @@ ol {
 }
 
 footer	{
-	font-size: 0.875em;
+	font-size: 0.75em;
 	position: auto;
 	padding-bottom: 5px;
 }
