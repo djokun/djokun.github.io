@@ -64,13 +64,13 @@ ol {
 }
 
 footer	{
-	font-size: clamp(8px, 3vw, 28px);
+	font-size: clamp(8px, 3vw, 24px);
 	position: auto;
 	padding-bottom: 5px;
 }
 
 p.footnote {
-	font-size: clamp(8px, 3vw, 28px);
+	font-size: clamp(8px, 3vw, 24px);
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
