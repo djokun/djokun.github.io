@@ -1,66 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Professional Mobile-Friendly Website</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <header>
-    <h1>My Professional Website</h1>
-    <p>Welcome to a clean, mobile-friendly web experience</p>
-  </header>
-
-  <nav>
-    <button class="menu-toggle" onclick="toggleMenu(event)">☰ Menu</button>
-    <div class="nav-links">
-      <a href="#about">About</a>
-      <a href="#services">Services</a>
-      <a href="#contact">Contact</a>
-    </div>
-  </nav>
-
-  <div class="container">
-    <section id="about">
-      <h2>About Us</h2>
-      <p>We are committed to delivering top-notch services and building strong relationships with our clients.</p>
-    </section>
-
-    <section id="services">
-      <h2>Our Services</h2>
-      <ul>
-        <li>Consulting</li>
-        <li>Web Development</li>
-        <li>Design & Branding</li>
-      </ul>
-    </section>
-
-    <section id="contact">
-      <h2>Contact Us</h2>
-      <p>Email: contact@yourwebsite.com</p>
-      <p>Phone: +1 (555) 123-4567</p>
-    </section>
+<html
+  <div class="sidenav">
+    <a href="/index.html">Home</a>
+    <a href="/posts.html">Posts</a>
+    <a href="/books.html">Favorite Books</a>
+    <a href="/about.html">About Me</a>
+    <a href="/contact.html">Contact</a>
+    <a href="/software.html">Computer Stuff</a>
+    <a href="/routine.html">Exercise Routine</a>
   </div>
 
-  <footer>
-    <p>&copy; 2025 Your Company. All rights reserved.</p>
-  </footer>
-
-  <script>
-    function toggleMenu(event) {
-      event.stopPropagation();
-      const navLinks = document.querySelector('.nav-links');
-      navLinks.classList.toggle('show');
-    }
-
-    document.addEventListener('click', function(event) {
-      const navLinks = document.querySelector('.nav-links');
-      const menuToggle = document.querySelector('.menu-toggle');
-      if (!navLinks.contains(event.target) && !menuToggle.contains(event.target)) {
-        navLinks.classList.remove('show');
-      }
-    });
-  </script>
-</body>
-</html>
