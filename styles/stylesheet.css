@@ -30,7 +30,7 @@ hr {
 	max-width: 50%;
 }
 a:link	{
-	color: darkslategrey;
+	color: thistle;
 }
 a:visited{
 	color: grey;
@@ -98,7 +98,7 @@ p.footnote {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: darkslategrey;
+  background-color: thistle;
   overflow-x: hidden;
   padding-top: 20px;
 }
@@ -107,7 +107,7 @@ p.footnote {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
 	font-size: clamp(8px, 3vw, 28px);
-  color: linen;
+  color: black;
   display: block;
 }
 
