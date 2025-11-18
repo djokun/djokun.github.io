@@ -1,0 +1,132 @@
+html {
+  background-color: linen;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+table, th, td {
+  border: 1px solid black;
+	font-size: clamp(8px, 3vw, 28px);
+}
+
+h1 {
+	text-align: center;
+	font-size: clamp(15px, 4.5vw, 35px);
+	-webkit-font-smoothing: antialiased;
+}
+h2 {
+	text-align: center;
+	font-size: clamp(13.5px, 4.35vw 33.5px);
+}
+h3 {
+	text-align: center;
+	font-size: clamp(12px, 4.2vw, 32px);
+}
+hr {
+	color: black;
+	max-width: 50%;
+}
+a:link	{
+	color: darkgreen;
+}
+a:visited{
+	color: grey;
+  text-decoration: none;
+}
+
+p {
+	text-align: left;
+	font-size: clamp(10px, 4vw, 30px);
+}
+
+p.pullquote {
+  text-align: center;
+  margin-right: 28%;
+  margin-left: 28%;
+  font-size: clamp(11px, 4.1vw, 31px);
+  color: grey;
+}
+
+ul {
+	font-size: clamp(10px, 4vw, 30px);
+}
+
+ul.links {
+	font-size: clamp(10px, 4vw, 30px);
+  list-style-type: none;
+}
+
+ol {
+	font-size: clamp(10px, 4vw, 30px);
+}
+
+footer	{
+	font-size: clamp(8px, 3vw, 24px);
+	position: auto;
+	padding-bottom: 5px;
+}
+
+p.footnote {
+	font-size: clamp(8px, 3vw, 24px);
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+	flex: 50%;
+	padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+/* Circular Images */
+.cir_img_me {
+	border-radius: 50%;
+  border-style: solid;
+  border-width: 2px;
+}
+
+/* Sidebar */
+.sidenav {
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+/*  background-color: thistle; */
+  background-color: darkseagreen;
+  overflow-x: hidden;
+  padding-top: 20px;
+  border-right-style: solid;
+  border-right-width: 2px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+	font-size: clamp(8px, 3vw, 28px);
+  color: black;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: black;
+  background-color: linen;
+}
+
+.main {
+  margin-left: 20%; /* Same as the width of the sidenav */
+  font-size: clamp(6px, 2vw, 26px); /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 10px;}
+}

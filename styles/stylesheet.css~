@@ -1,0 +1,286 @@
+html {
+	background-color: #fcfcfc;
+	background-attachment: fixed;
+	color: black;
+}
+html.home {
+	background-image: url("/images/lineshome.png");
+}
+html.writing {
+	background-image: url("/images/lineswrite.png");
+}
+html.books {
+	background-image: url("/images/linesbook.png");
+}
+html.info {
+	background-image: url("/images/linesinfo.png");
+}
+html.spooky {
+	background-image: url("/images/linesspooky.png");
+}
+
+body {
+	background-color: linen;
+	background-attachment: fixed;
+	color: #222222;
+	width: auto;
+	max-width: 800px;
+	height: auto;
+	margin: auto;
+	margin-top: 2%;
+  margin-bottom: 2%;
+	padding: 10px;
+	font-size: 100%;
+	border: double;
+	box-shadow: 1px 1px 1px black;
+}
+body.nothome {
+	padding-bottom: 50px;
+	height: auto;
+}
+h1 {
+	text-align: center;
+	height: ;
+	font-size: 1.5em;
+	-webkit-font-smoothing: antialiased;
+}
+h2 {
+	text-align: center;
+	font-size: 1.25em;
+}
+h3 {
+	text-align: center;
+	font-size: 1.0em;
+}
+hr {
+	color: black;
+	border-top: 2px dotted;
+	max-width: 50%;
+}
+a:link	{
+	color: darkblue;
+}
+a:visited{
+	color: black;
+}
+
+ul.articles {
+	list-style-type: square;
+}
+/* Heading for homepage with blue as background */
+
+/* Header containing links to web pages */
+.ul_header {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border: double;
+	overflow: visible;
+	top: 0;
+	width: auto;
+	height:26px;
+	position: relative;
+	z-index:50;
+	box-shadow: 1px 1px 1px black;
+}
+
+.li_header {
+	float: left;
+	height: auto;
+	border-right: double black;
+}
+.li_header:last-child{
+	border-right: none;
+	height: auto;
+}
+
+.li_header_right {
+	float: right;
+	height: auto;
+	border-left: double black;
+}
+.li_header_right:first-child{
+	border-left: none;
+	height: auto;
+}
+
+.li_header a {
+	display: block;
+	font-size: 0.875em;
+	color: #222222;
+	text-align: center;
+	padding: 5px 5px;
+	line-height: 16px;
+	height: 16px;
+	text-decoration: none;
+}
+
+.li_header a:hover{
+	background-color: #d9e4e4;
+}
+
+.li_header_right a {
+	display: block;
+	font-size: 0.875em;
+	color: #222222;
+	text-align: center;
+	padding: 5px 5px;
+	line-height: 16px;
+	height: 16px;
+	text-decoration: none;
+}
+
+.li_header_right a:hover{
+	background-color: #d9e4e4;
+}
+
+/* Dropdown menu */
+.li_header ul {
+	display: none;
+	text-align: center;
+	padding: 0;
+	list-style: none;
+	width: 100px;
+	border: double black;
+	background-color: ghostwhite;
+	position: absolute;
+	z-index: 100;
+	box-shadow: 1px 1px 1px black;
+}
+.li_header:hover ul {
+	display: block;
+	float: top;
+}
+.li_header_right ul {
+	display: none;
+	text-align: center;
+	padding: 0;
+	list-style: none;
+	width: 100px;
+	border: double black;
+	background-color: ghostwhite;
+	position: absolute;
+	right:1px;
+	z-index: 100;
+	box-shadow: 1px 1px 1px black;
+}
+.li_header_right:hover ul {
+	display: block;
+	float: top;
+}
+
+/* colors for header */
+.homecolor {
+	background-color: coral;
+}
+.writingcolor {
+	background-color: palegoldenrod;
+}
+.bookscolor {
+	background-color: cadetblue;
+}
+.infocolor {
+	background-color: darkseagreen;
+}
+.spookycolor {
+	background-color: rosybrown;
+}
+
+/* Buttons */
+a.button {
+	appearance: button;
+	text-decoration: none;
+	color: #222222;
+	font-size: 20px;
+	display: inline-block;
+	text-align: center;
+	padding: 16px 20px;
+	background-color: #6699cc;
+	border: 2px solid #222222;
+}
+a.button:hover {
+	background-color: #ffd976;
+}
+
+.copyhome {
+	color: black;
+	background-color: coral;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
+.copywriting {
+	color: black;
+	background-color: palegoldenrod;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
+.copybooks {
+	color: black;
+	background-color: cadetblue;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
+.copyinfo {
+	color: black;
+	background-color: darkseagreen;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
+.copyspooky {
+	color: black;
+	background-color: rosybrown;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom; 5px;
+	border: double;
+	box-shadow: 1px 1px 1px black;	
+}
+p {
+	text-align: left;
+	font-size: 0.875em;
+}
+
+ul {
+	font-size: 0.875em;
+}
+ol {
+	font-size: 0.875em;
+}
+
+footer	{
+	font-size: 0.875em;
+	position: auto;
+	padding-bottom: 5px;
+}
+
+p.footnote {
+	font-size: 0.7em;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+	flex: 50%;
+	padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+/* Circular Images */
+.cir_img_me {
+	border-radius: 50%;
+}
