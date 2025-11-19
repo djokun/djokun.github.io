@@ -15,6 +15,8 @@ h1 {
 	text-align: center;
 	font-size: clamp(15px, 4.5vw, 35px);
 	-webkit-font-smoothing: antialiased;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
 }
 h2 {
 	text-align: center;
@@ -66,6 +68,8 @@ footer	{
 	font-size: clamp(8px, 3vw, 24px);
 	position: auto;
 	padding-bottom: 5px;
+  border-top-width: 1px;
+  border-top-style: solid;
 }
 
 p.footnote {
